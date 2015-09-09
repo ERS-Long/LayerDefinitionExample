@@ -8,7 +8,7 @@ Config Setting
                 id: 'layerDefinitionExample',
                 type: 'titlePane',
                 canFloat: true,
-                path: 'widgets/LayerDefinitionExample',
+                path: 'widgets/WindStation',
                 title: '<i class="icon-large icon-upload"></i>&nbsp;&nbsp;Layer Definition Example',
                 position: 19,
                 options: {
