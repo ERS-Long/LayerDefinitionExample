@@ -1,7 +1,7 @@
 # LayerDefinitionExample
 CMV widget for layer definition demo
 
-1. Config Setting
+Config Setting
             
             layerDefinitionExample: {
                 include: true,
@@ -17,7 +17,7 @@ CMV widget for layer definition demo
             }
             
             
-2. Legend
+Legend
 
 Becasue it is not a layer that defined in config file, so we have to process our own legend. The simple way is to use the right pane, in that pane, we just need to define a div for the legend
 
@@ -31,7 +31,7 @@ Becasue it is not a layer that defined in config file, so we have to process our
                 content: '<div id="legendDiv" style="height:100%;"></div>'
         	}, 
         	
-3. Map Service we are using is from the ESRI example
+Map Service we are using is from the ESRI example
    
             https://developers.arcgis.com/javascript/jssamples/map_multiplelayerdef.html
 
