@@ -32,5 +32,6 @@ Becasue it is not a layer that defined in config file, so we have to process our
         	}, 
         	
 3. Map Service we are using is from the ESRI example
-   https://developers.arcgis.com/javascript/jssamples/map_multiplelayerdef.html
+   
+            https://developers.arcgis.com/javascript/jssamples/map_multiplelayerdef.html
 
